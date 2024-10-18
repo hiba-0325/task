@@ -1,0 +1,52 @@
+.container {
+  padding: 100px;
+
+  width: 340px;
+}
+
+.input-box {
+  padding: 10px;
+  width: 210px;
+  background-color: rgb(243, 243, 232);
+}
+
+.add-btn {
+  padding: 10px;
+  background-color: rgb(101, 160, 101);
+}
+
+.task-list {
+  padding: 10px;
+  
+}
+
+
+.delete-btn {
+  padding: 10px;
+  
+  background-color: rgb(161, 31, 31);
+}
+
+.box-container{
+    
+   padding: 90px;
+   border: 1px solid red;
+}
+.switch-btn {
+  padding: 10px;
+  border-radius: 50%;
+  
+
+  background-color: rgb(95, 104, 104);
+
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: aliceblue;
+  color: black;
+}
